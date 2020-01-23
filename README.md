@@ -1,4 +1,4 @@
-# Projects: SQL
+# Project: SQL
 Database: Udacity Parch and Posey Database
 
 In the Parch & Posey database there are five tables (essentially 5 spreadsheets):
